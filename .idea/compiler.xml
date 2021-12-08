@@ -6,23 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="itheima_spring_ioc_anno" />
-        <module name="itheima_spring_exception" />
-        <module name="itheima_spring_mvc" />
-        <module name="itheima_spring_test" />
-        <module name="itheima_spring_ioc" />
-        <module name="itheima_spring_jdbc" />
-        <module name="itheima_spring_aop" />
+        <module name="spring_test" />
+        <module name="spring_jdbc" />
+        <module name="spring_ioc" />
+        <module name="spring_mvc" />
+        <module name="spring_exception" />
+        <module name="spring_ioc_anno" />
+        <module name="spring_aop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="itheima_spring_aop" target="1.8" />
-      <module name="itheima_spring_exception" target="1.8" />
-      <module name="itheima_spring_ioc" target="1.8" />
-      <module name="itheima_spring_ioc_anno" target="1.8" />
-      <module name="itheima_spring_jdbc" target="1.8" />
-      <module name="itheima_spring_mvc" target="1.8" />
-      <module name="itheima_spring_test" target="1.8" />
+      <module name="spring_aop" target="1.8" />
+      <module name="spring_exception" target="1.8" />
+      <module name="spring_ioc" target="1.8" />
+      <module name="spring_ioc_anno" target="1.8" />
+      <module name="spring_jdbc" target="1.8" />
+      <module name="spring_mvc" target="1.8" />
+      <module name="spring_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
