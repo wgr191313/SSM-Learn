@@ -1,7 +1,7 @@
 # Project exclude paths
-/itheima_spring_aop/target/
-/itheima_spring_ioc/target/
-/itheima_spring_ioc_anno/target/
-/itheima_spring_jdbc/target/
-/itheima_spring_mvc/target/
-/itheima_spring_test/target/
+/spring_aop/target/
+/spring_ioc/target/
+/spring_ioc_anno/target/
+/spring_jdbc/target/
+/spring_mvc/target/
+/spring_test/target/

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/spring_aop" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_aop" />
     <file type="web" url="file://$PROJECT_DIR$/spring_exception" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_anno" />
@@ -19,6 +20,8 @@
         <option value="$PROJECT_DIR$/itheima_spring_test/pom.xml" />
         <option value="$PROJECT_DIR$/itheima_spring_exception/pom.xml" />
         <option value="$PROJECT_DIR$/itheima_spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aop1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aop/pom.xml" />
       </list>
     </option>
   </component>
